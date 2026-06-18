@@ -37,17 +37,6 @@ O objetivo é transformar dados brutos em informações estratégicas, permitind
 <img width="1276" height="662" alt="image" src="https://github.com/user-attachments/assets/2bf24d1d-74dc-40e8-9fcc-c4841c2108d9" />
 
 
-## 📂 Estrutura do Projeto
-
-```text
-├── Dashboard.pbix
-├── dados/
-│   └── Base_Vendas.xlsx
-├── imagens/
-│   └── dashboard.png
-└── README.md
-```
-
 ## 💡 Principais Aprendizados
 
 Durante o desenvolvimento deste projeto foram aplicados conceitos de:
@@ -57,3 +46,4 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 * Modelagem de dados;
 * Storytelling com dados;
 * Desenvolvimento de dashboards para apoio à tomada de decisão.
+* Coneceitos da área de vendas.
